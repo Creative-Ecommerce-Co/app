@@ -1,0 +1,10 @@
+/Users/elicharlese/Team CEC Dropbox/Elias Estrada/ECE/Professional/Developer/Majors&Minors/CEC/app/src/contract/target/release/deps/version_check-05034c3606b141e9.rmeta: /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/Users/elicharlese/Team CEC Dropbox/Elias Estrada/ECE/Professional/Developer/Majors&Minors/CEC/app/src/contract/target/release/deps/libversion_check-05034c3606b141e9.rlib: /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/Users/elicharlese/Team CEC Dropbox/Elias Estrada/ECE/Professional/Developer/Majors&Minors/CEC/app/src/contract/target/release/deps/version_check-05034c3606b141e9.d: /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs:
